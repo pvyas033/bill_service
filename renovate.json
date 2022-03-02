@@ -2,5 +2,7 @@
   "extends": ["config:base",
               ":automergePatch",
               ":automergeMinor"
-             ]
+             ],
+  "automerge": true,
+  "automergeType": "branch"
 }
