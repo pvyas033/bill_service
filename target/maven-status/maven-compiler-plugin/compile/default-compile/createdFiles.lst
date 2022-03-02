@@ -1,8 +1,0 @@
-com\pv\infix\bill\BillApplication.class
-com\pv\infix\bill\bean\Bill.class
-com\pv\infix\bill\service\BillService.class
-com\pv\infix\bill\controller\BillController.class
-com\pv\infix\bill\info\BillCode.class
-com\pv\infix\bill\util\TaxCalculator.class
-com\pv\infix\bill\util\DatabaseManager.class
-com\pv\infix\bill\exception\InvalidRequest.class
